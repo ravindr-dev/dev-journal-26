@@ -7,3 +7,4 @@ day 6 i did nothing
 day 7 today i learn how internet works
 day 8 client-server architecture
 day 9 today i learn internet protocol
+day 10 I did nothing
